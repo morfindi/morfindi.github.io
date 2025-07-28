@@ -1,143 +1,129 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>David E. Morfin Díaz - Lead MuleSoft Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background-color: #005C8C;
-            color: white;
-            text-align: center;
-            padding: 2rem;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        header p {
-            font-size: 1.2rem;
-        }
-        .content {
-            max-width: 1200px;
-            margin: 2rem auto;
-            padding: 0 2rem;
-        }
-        .content h2 {
-            color: #005C8C;
-            font-size: 1.8rem;
-            border-bottom: 2px solid #005C8C;
-            padding-bottom: 0.5rem;
-        }
-        .section {
-            margin-bottom: 2rem;
-        }
-        .section p {
-            font-size: 1rem;
-            line-height: 1.6;
-        }
-        .skills, .certifications, .experience {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 2rem;
-        }
-        .skills div, .certifications div, .experience div {
-            background-color: #fff;
-            padding: 1rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-        .skills div h3, .certifications div h3, .experience div h3 {
-            color: #005C8C;
-            font-size: 1.3rem;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background-color: #333;
-            color: white;
-        }
-        footer a {
-            color: #05a8d1;
-            text-decoration: none;
-        }
-        footer a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>David E. Morfin Díaz | Lead Integration Architect</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(135deg, #1e3a8a, #0f172a);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 0 auto 20px;
+    }
+
+    .buttons a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+
+    .buttons a:hover {
+      background: #2563eb;
+    }
+
+    section {
+      max-width: 960px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    h2 {
+      color: #60a5fa;
+      margin-bottom: 10px;
+    }
+
+    .highlight-box {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+
+    .quote {
+      font-style: italic;
+      border-left: 4px solid #3b82f6;
+      padding-left: 15px;
+      margin: 20px 0;
+      color: #cbd5e1;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      background: #1e293b;
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
 <body>
-
-<header>
+  <header>
     <h1>David E. Morfin Díaz</h1>
-    <p>Lead MuleSoft Developer | Integration Architect | Mentor</p>
-</header>
+    <p>Lead Integration Architect | MuleSoft Champion | Tech Mentor</p>
+    <p>"I lead technical teams to build scalable, cloud-native API ecosystems."</p>
+    <div class="buttons">
+      <a href="https://www.linkedin.com/in/dmorfindiaz/" target="_blank">LinkedIn</a>
+      <a href="mailto:dmorfindiaz@gmail.com">Email Me</a>
+      <a href="https://www.youtube.com/playlist?list=PLGZxPBjw1EoBs6MNSpApg9kaM3EQV47AK" target="_blank">Watch My Talks</a>
+    </div>
+  </header>
 
-<div class="content">
-    <section class="section">
-        <h2>About Me</h2>
-        <p>I'm a certified Lead MuleSoft Developer with over 8 years of experience building cloud and on-premise integrations. Passionate about clean architecture, performance tuning, and sharing knowledge with the Latin American MuleSoft community.</p>
-        <p>I've worked on major enterprise integrations with platforms like <strong>Salesforce, Oracle, Workday, Azure, NetSuite, Kafka</strong>, and more. I also lead development teams and drive best practices across projects at <strong>Capgemini</strong>.</p>
-    </section>
+  <section>
+    <h2>What I Do</h2>
+    <div class="highlight-box">
+      <p><strong>🛠️ What I Build:</strong> Secure, scalable API-led integrations using MuleSoft, Salesforce, Workday, and Azure.</p>
+      <p><strong>👥 Whom I Lead:</strong> Onshore and offshore teams, mentoring junior developers and enforcing best practices.</p>
+      <p><strong>📈 How I Help:</strong> Reduce support costs, optimize CI/CD delivery, and accelerate time-to-market for enterprises.</p>
+    </div>
 
-    <section class="section skills">
-        <h2>Core Skills & Tools</h2>
-        <div>
-            <h3>Languages</h3>
-            <p>Java, JavaScript, Groovy, SQL, DataWeave</p>
-        </div>
-        <div>
-            <h3>Platforms</h3>
-            <p>MuleSoft (Mule 3 & 4), Salesforce, Oracle, Workday, AWS, Azure</p>
-        </div>
-        <div>
-            <h3>Integration</h3>
-            <p>REST/SOAP APIs, Kafka, RabbitMQ, SFTP, SMB, Redis</p>
-        </div>
-        <div>
-            <h3>Tools</h3>
-            <p>Anypoint Studio, GitLab, Jenkins, Postman, JMeter, Maven</p>
-        </div>
-        <div>
-            <h3>Deployment</h3>
-            <p>CloudHub, Runtime Fabric, On-Prem, CI/CD pipelines</p>
-        </div>
-        <div>
-            <h3>Agile/Scrum</h3>
-            <p>Team leadership, sprint planning, offshore coordination</p>
-        </div>
-    </section>
+    <h2>Impact Highlights</h2>
+    <ul>
+      <li>✅ 20+ enterprise APIs deployed to production</li>
+      <li>📉 50% reduction in support tickets using error-handling framework</li>
+      <li>👨‍🏫 1,000+ developers mentored through meetups and training videos</li>
+    </ul>
 
-    <section class="section certifications">
-        <h2>Certifications</h2>
-        <div>
-            <h3>MuleSoft Certified Developer – Mule 4 (Level 1)</h3>
-        </div>
-        <div>
-            <h3>MuleSoft Platform Architect – Level 1</h3>
-        </div>
-        <div>
-            <h3>MuleSoft API Design Associate (RAML 1.0)</h3>
-        </div>
-        <div>
-            <h3>AWS Cloud Practitioner</h3>
-        </div>
-        <div>
-            <h3>Salesforce Administrator</h3>
-        </div>
-        <div>
-            <h3>Scrum Fundamentals Certified</h3>
-        </div>
-    </section>
+    <h2>Speaker & Community</h2>
+    <div class="highlight-box">
+      <p>🎤 Speaker – <a href="https://meetups.mulesoft.com/events/details/mulesoft-mulesoft-community-special-events-presents-latam-community-conference/" target="_blank">MuleSoft LATAM Conference</a></p>
+      <p>🎙️ Moderator – <a href="https://meetups.mulesoft.com/events/details/mulesoft-mulesoft-community-special-events-presents-emea-community-conference/" target="_blank">EMEA Community Conference</a></p>
+      <p>📺 YouTube Channel – <a href="https://www.youtube.com/channel/UCoBkSA64Zr1uvxmbbeE_zIQ/videos" target="_blank">MuleSoft Certifications (Spanish)</a></p>
+    </div>
 
-    <section class="section experience">
-        <h2>Professional Experience</h2>
-        <div>
-            <h3>Lead MuleSoft Developer | Capgemini</h3>
-            <
+    <h2>What Others Say</h2>
+    <p class="quote">“David not only leads his team, he mentors a whole community.” — Sapna Khobare, Director @ Capgemini</p>
+    <p class="quote">“The CI/CD automation David implemented saved us months of effort.” — Sr. DevOps Engineer, Restaurant Client</p>
+
+    <h2>Let’s Build Together</h2>
+    <p>If you're a recruiter, CTO, or engineering leader looking for an integration expert with real-world leadership, let’s connect. I’m available for architecture reviews, consulting, or speaking engagements.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 David E. Morfin Díaz — All rights reserved.
+  </footer>
+</body>
+</html>
