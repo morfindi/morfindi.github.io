@@ -95,16 +95,16 @@
   <section>
     <h2>What I Do</h2>
     <div class="highlight-box">
-      <p><strong>🛠️ What I Build:</strong> Secure, scalable API-led integrations using MuleSoft, Salesforce, Workday, and Azure.</p>
-      <p><strong>👥 Whom I Lead:</strong> Onshore and offshore teams, mentoring junior developers and enforcing best practices.</p>
-      <p><strong>📈 How I Help:</strong> Reduce support costs, optimize CI/CD delivery, and accelerate time-to-market for enterprises.</p>
+      <p><strong>🛠️ What I Build:</strong> Enterprise integrations using MuleSoft, Workday, Salesforce, and AWS—designed with API-led connectivity and scalability in mind.</p>
+      <p><strong>👥 Whom I Lead:</strong> I lead onshore and offshore technical teams with a focus on mentorship, documentation, and clean architecture.</p>
+      <p><strong>📈 How I Help:</strong> Reduce support costs, optimize CI/CD delivery, and accelerate time-to-market with automation and reusable frameworks.</p>
     </div>
 
     <h2>Impact Highlights</h2>
     <ul>
-      <li>✅ 20+ enterprise APIs deployed to production</li>
-      <li>📉 50% reduction in support tickets using error-handling framework</li>
-      <li>👨‍🏫 1,000+ developers mentored through meetups and training videos</li>
+      <li>🔗 Integrated Workday, Salesforce, and cloud-native services using API-led architecture</li>
+      <li>🚀 Led CI/CD implementation with GitLab, improving release efficiency</li>
+      <li>📚 Enabled cross-functional growth through mentorship and internal knowledge-sharing</li>
     </ul>
 
     <h2>Speaker & Community</h2>
@@ -113,10 +113,6 @@
       <p>🎙️ Moderator – <a href="https://meetups.mulesoft.com/events/details/mulesoft-mulesoft-community-special-events-presents-emea-community-conference/" target="_blank">EMEA Community Conference</a></p>
       <p>📺 YouTube Channel – <a href="https://www.youtube.com/channel/UCoBkSA64Zr1uvxmbbeE_zIQ/videos" target="_blank">MuleSoft Certifications (Spanish)</a></p>
     </div>
-
-    <h2>What Others Say</h2>
-    <p class="quote">“David not only leads his team, he mentors a whole community.” — Sapna Khobare, Director @ Capgemini</p>
-    <p class="quote">“The CI/CD automation David implemented saved us months of effort.” — Sr. DevOps Engineer, Restaurant Client</p>
 
     <h2>Let’s Build Together</h2>
     <p>If you're a recruiter, CTO, or engineering leader looking for an integration expert with real-world leadership, let’s connect. I’m available for architecture reviews, consulting, or speaking engagements.</p>
