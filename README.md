@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -63,14 +64,6 @@
       margin-bottom: 20px;
     }
 
-    .quote {
-      font-style: italic;
-      border-left: 4px solid #3b82f6;
-      padding-left: 15px;
-      margin: 20px 0;
-      color: #cbd5e1;
-    }
-
     footer {
       text-align: center;
       padding: 30px 20px;
@@ -82,7 +75,7 @@
 <body>
   <header>
     <h1>David E. Morfin Díaz</h1>
-    <p>Lead Integration Architect | MuleSoft Champion | Tech Mentor</p>
+    <p>Lead Integration Architect | MuleSoft Specialist</p>
     <p>"I lead technical teams to build scalable, cloud-native API ecosystems."</p>
     <div class="buttons">
       <a href="https://www.linkedin.com/in/dmorfindiaz/" target="_blank">LinkedIn</a>
@@ -95,26 +88,39 @@
     <h2>What I Do</h2>
     <div class="highlight-box">
       <p><strong>🛠️ What I Build:</strong> Enterprise integrations using MuleSoft, Workday, Salesforce, and AWS—designed with API-led connectivity and scalability in mind.</p>
-      <p><strong>👥 Whom I Lead:</strong> I lead onshore and offshore technical teams with a focus on mentorship, documentation, and clean architecture.</p>
-      <p><strong>📈 How I Help:</strong> Reduce support costs, optimize CI/CD delivery, and accelerate time-to-market with automation and reusable frameworks.</p>
+      <p><strong>👥 Whom I Lead:</strong> I lead onshore and offshore technical teams with a focus on documentation, platform enablement, and clean architecture.</p>
+      <p><strong>📈 My Focus:</strong> Optimize CI/CD delivery, ensure reliable API performance, and support enterprise integration strategies through reusable frameworks and automation.</p>
     </div>
 
     <h2>Impact Highlights</h2>
     <ul>
       <li>🔗 Integrated Workday, Salesforce, and cloud-native services using API-led architecture</li>
       <li>🚀 Led CI/CD implementation with GitLab, improving release efficiency</li>
-      <li>📚 Enabled cross-functional growth through mentorship and internal knowledge-sharing</li>
+      <li>📚 Delivered documentation and frameworks used across internal teams</li>
     </ul>
 
-    <h2>Speaker & Community</h2>
+    <h2>Community & Public Speaking</h2>
     <div class="highlight-box">
       <p>🎤 Speaker – <a href="https://meetups.mulesoft.com/events/details/mulesoft-mulesoft-community-special-events-presents-latam-community-conference/" target="_blank">MuleSoft LATAM Conference</a></p>
       <p>🎙️ Moderator – <a href="https://meetups.mulesoft.com/events/details/mulesoft-mulesoft-community-special-events-presents-emea-community-conference/" target="_blank">EMEA Community Conference</a></p>
       <p>📺 YouTube Channel – <a href="https://www.youtube.com/channel/UCoBkSA64Zr1uvxmbbeE_zIQ/videos" target="_blank">MuleSoft Certifications (Spanish)</a></p>
     </div>
 
-    <h2>Let’s Build Together</h2>
-    <p>If you're a recruiter, CTO, or engineering leader looking for an integration expert with real-world leadership, let’s connect. I’m available for architecture reviews, consulting, or speaking engagements.</p>
+    <h2>Certifications</h2>
+    <div class="highlight-box">
+      <ul>
+        <li>MuleSoft Certified Developer - Mule 4 Level 1</li>
+        <li>MuleSoft Go To Market Certification</li>
+        <li>MuleSoft Certified Platform Architect - Level 1</li>
+        <li>Salesforce Administrator</li>
+        <li>AWS Cloud Practitioner</li>
+        <li>MCD - API Design Associate (RAML 1.0)</li>
+        <li>MCD - Integration and API Associate (Mule 3.9)</li>
+        <li>Scrum Fundamentals Certified</li>
+        <li>Oracle Certified Associate, Java SE 7 Programmer</li>
+        <li>Fundamentals of Java Programming</li>
+      </ul>
+    </div>
   </section>
 
   <footer>
