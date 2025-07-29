@@ -86,7 +86,7 @@
   <section>
     <h2>What I Do</h2>
     <div class="highlight-box">
-      <p><strong>🛠️ What I Build:</strong> Enterprise integrations using MuleSoft, Workday, Salesforce, and AWS—designed with API-led connectivity and scalability in mind.</p>
+      <p><strong>🛠️ What I Build:</strong> Enterprise integrations using MuleSoft, Workday, Salesforce, and AWS designed with API-led connectivity and scalability in mind.</p>
       <p><strong>👥 Whom I Lead:</strong> I lead onshore and offshore technical teams with a focus on documentation, platform enablement, and clean architecture.</p>
       <p><strong>📈 My Focus:</strong> Optimize CI/CD delivery, ensure reliable API performance, and support enterprise integration strategies through reusable frameworks and automation.</p>
     </div>
@@ -123,7 +123,7 @@
   </section>
 
   <footer>
-    &copy; 2025 David E. Morfin Díaz — All rights reserved.
+    &copy; 2025 David E. Morfin Díaz - All rights reserved.
   </footer>
 </body>
 </html>
