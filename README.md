@@ -169,7 +169,6 @@
       </div>
       <div class="contact">
         <div>Email: <a href="mailto:dmorfindiaz@gmail.com">dmorfindiaz@gmail.com</a></div>
-        <div>Phone: <a href="tel:+1803243059">(803) 243-0592</a></div>
         <div>LinkedIn: <a href="https://www.linkedin.com/in/dmorfindiaz/" target="_blank" rel="noopener noreferrer">dmorfindiaz</a></div>
       </div>
     </header>
