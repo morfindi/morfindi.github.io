@@ -262,10 +262,10 @@
 
         <h2 class="section-title" style="margin-top:18px">Certifications</h2>
         <ul class="cert-list">
-          <li>MuleSoft Certified Developer - Mule 4 Level 1 (Feb 2023)</li>
+          <li>MuleSoft Certified Developer - Mule 4 Level 1 (Active)</li>
           <li>MuleSoft Go To Market Certification (Feb 2023)</li>
-          <li>MuleSoft Certified Platform Architect - Level 1 (Feb 2022)</li>
-          <li>Salesforce Administrator (Nov 2020)</li>
+          <li>MuleSoft Certified Platform Architect - Level 1 (Active)</li>
+          <li>Salesforce Administrator (Active)</li>
           <li>AWS Cloud Practitioner (Jul 2020)</li>
           <li>MCD - API Design Associate (RAML 1.0) (Apr 2019)</li>
           <li>MCD - Integration and API Associate (Mule 3.9) (Mar 2019)</li>
